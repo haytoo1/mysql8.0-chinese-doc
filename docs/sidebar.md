@@ -1,3 +1,3 @@
 # 第一章
-[xx](index.md)
+[第一章](index.md)
 # 第二章
