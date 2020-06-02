@@ -1,3 +1,3 @@
 # 第一章
-[xx](sidebar.md)
+[xx](index.md)
 # 第二章
